@@ -129,3 +129,10 @@
   });
 
 })()
+
+var typed = new Typed('.typed', {
+  strings: ['Expert JavaScript Developer'],
+  typeSpeed: 80,
+  backSpeed: 50,
+  loop: false
+});
