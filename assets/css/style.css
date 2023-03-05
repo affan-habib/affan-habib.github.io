@@ -560,11 +560,8 @@ h6 {
   }
 }
 
-#about {
-  background-color: rgb(232, 232, 232);
-  height: 800px;
-}
-#services {
-  background-color: rgb(240, 219, 219);
-  height: 800px;
+.card:hover {
+  background-color: #f7f7f7;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
 }
