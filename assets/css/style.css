@@ -560,9 +560,11 @@ h6 {
   }
 }
 
-#about,
+#about {
+  background-color: rgb(232, 232, 232);
+  height: 800px;
+}
 #services {
-  background-color: red;
-  margin: 10px;
-  height: 500px;
+  background-color: rgb(240, 219, 219);
+  height: 800px;
 }
