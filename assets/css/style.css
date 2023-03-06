@@ -526,3 +526,8 @@ h6 {
 .social-buttons .btn i {
   font-size: 1.5rem;
 }
+
+.fa-chevron-right{
+  font-size: 12px !important;
+  margin-right: 8px;
+}
